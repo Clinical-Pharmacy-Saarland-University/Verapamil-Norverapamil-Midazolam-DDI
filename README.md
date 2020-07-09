@@ -1,5 +1,5 @@
 ## Verapamil-Norverapamil-Midazolam-DDI
-Modeling of published clinical Verapamil-Midazolam-DDI studies for model evaluation
+Modeling of published clinical Verapamil-Midazolam-DDI studies for model evaluation.
 
 ### Repository files
 Within this repository, we share a PK-Sim project file containing simulations of all published clinical studies used to evaluate the predictive performance of our models regarding the Verapamil-Midazolam-DDI, including the respective observed data. For further details and documentation please refer to [[1](#reference)].
